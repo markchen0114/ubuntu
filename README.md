@@ -1,6 +1,6 @@
 # ubuntu
 
-## Install
+## Install (Global)
 * sudo apt-get install apache2
 * sudo apt-get install mysql-server
 * sudo apt-get install php
@@ -8,6 +8,16 @@
 * curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 * sudo apt-get install git
 * sudo apt-get install npm
+
+
+## Install (Project)
+* sudo su
+* npm install -g gulp
+* npm install -g n
+* n stable
+* exit
+* sudo chmod 777 -R .git
+* sudo npm install n
 
 ## Version
 * php --version
