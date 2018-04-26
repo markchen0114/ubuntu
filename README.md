@@ -23,6 +23,7 @@
 * sudo chmod 777 -R .git
 * sudo npm install n
 * composer install
+* npm rebuild node-sass
 
 ## Version
 * php --version
