@@ -1,6 +1,7 @@
 # ubuntu
 
 ## Install (Global)
+* sudo apt-get update
 * sudo apt-get install apache2
 * sudo apt-get install mysql-server
 * sudo apt-get install php
@@ -8,7 +9,8 @@
 * curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 * sudo apt-get install git
 * sudo apt-get install npm
-
+* sudo apt-get install php7.1-xml
+* sudo apt-get install php-mbstring
 
 ## Install (Project)
 * sudo su
