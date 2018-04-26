@@ -12,6 +12,7 @@
 * sudo apt-get install php7.1-xml
 * sudo apt-get install php-mbstring
 * sudo apt-get install php-mysql
+* sudo npm install npm -g
 
 ## Install (Project)
 * sudo su
