@@ -13,7 +13,7 @@
 * sudo apt-get install php-mbstring
 * sudo apt-get install php-mysql
 * sudo npm install npm -g
-* sudo npm install gulp
+* sudo apt-get install gulp
 
 ## Install (Project)
 * sudo su
