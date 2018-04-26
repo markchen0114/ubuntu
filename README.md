@@ -20,6 +20,7 @@
 * exit
 * sudo chmod 777 -R .git
 * sudo npm install n
+* composer install
 
 ## Version
 * php --version
