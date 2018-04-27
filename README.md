@@ -14,6 +14,7 @@
 * sudo apt-get install php-mysql
 * sudo npm install npm -g
 * sudo apt-get install gulp
+* sudo npm install npm@latest -g
 
 ## Install (Project)
 * sudo su
