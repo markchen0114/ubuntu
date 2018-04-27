@@ -26,6 +26,7 @@
 * sudo npm install n
 * composer install
 * npm rebuild node-sass
+* nodejs node_modules/node-sass/scripts/install.js
 
 ## Version
 * php --version
