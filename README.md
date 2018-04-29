@@ -12,18 +12,17 @@
 * sudo apt-get install php7.1-xml
 * sudo apt-get install php-mbstring
 * sudo apt-get install php-mysql
-* sudo npm install npm -g
+* sudo npm install -g npm
+* sudo npm install -g n
 * sudo apt-get install gulp
 * sudo npm install npm@latest -g
 
 ## Install (Project)
 * sudo su
 * npm install -g gulp
-* npm install -g n
 * n stable
 * exit
 * sudo chmod 777 -R .git
-* sudo npm install n
 * composer install
 * npm rebuild node-sass
 * nodejs node_modules/node-sass/scripts/install.js
