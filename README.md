@@ -9,7 +9,7 @@
 * curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 * sudo apt-get install git
 * sudo apt-get install npm
-* sudo apt-get install php7.1-xml
+* sudo apt-get install php-xml
 * sudo apt-get install php-mbstring
 * sudo apt-get install php-mysql
 * sudo npm install -g npm
