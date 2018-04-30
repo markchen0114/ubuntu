@@ -29,6 +29,7 @@
 * composer install
 * npm rebuild node-sass
 * nodejs node_modules/node-sass/scripts/install.js
+* sudo npm install natives
 
 ## Version
 * php --version
