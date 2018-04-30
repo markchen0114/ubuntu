@@ -24,7 +24,7 @@
 * sudo su
 * npm install -g gulp
 * n stable
-* exit
+* sudo npm install --unsafe-perm=true
 * sudo chmod 777 -R .git
 * composer install
 * npm rebuild node-sass
