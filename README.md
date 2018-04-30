@@ -30,6 +30,7 @@
 * npm rebuild node-sass
 * nodejs node_modules/node-sass/scripts/install.js
 * sudo npm install natives
+* sudo npm install graceful-fs
 
 ## Version
 * php --version
