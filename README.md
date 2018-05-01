@@ -3,10 +3,10 @@
 ## Install (Global)
 * sudo apt-get update
 * sudo apt-get install apache2
-  
+======================
 * sudo apt-get install mysql-server
 * sudo mysql_secure_installation
-  
+======================
 * sudo apt-get install php
 * sudo apt-get install curl
 * curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
@@ -19,10 +19,10 @@
 * sudo npm install -g n
 * sudo apt-get install gulp
 * sudo npm install npm@latest -g
-  
+======================
 * a2enmod php7.x
 * php artisan cache:clear
-  
+<br/>
 ## Install (Project)
 * sudo su
 * npm install -g gulp
@@ -34,7 +34,7 @@
 * nodejs node_modules/node-sass/scripts/install.js
 * sudo npm install natives
 * sudo npm install graceful-fs
-  
+<br/>
 ## Version
 * php --version
 * mysql --version
