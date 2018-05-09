@@ -41,3 +41,8 @@
 * composer --version
 * git --version
 * npm --version
+
+## Git
+* local git sync from remote
+1. git pull
+2. git reset --hard HEAD^X -> your branch is ahead of 'branchName' by X commits
