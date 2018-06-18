@@ -15,6 +15,7 @@
 * sudo apt-get install php-xml
 * sudo apt-get install php-mbstring
 * sudo apt-get install php-mysql
+* sudo apt-get install php-curl
 * sudo npm install -g npm
 * sudo npm install -g n
 * sudo apt-get install gulp
