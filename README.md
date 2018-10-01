@@ -35,6 +35,7 @@
 * nodejs node_modules/node-sass/scripts/install.js
 * sudo npm install natives
 * sudo npm install graceful-fs
+* php artisan queue:work --daemon --quiet --queue=default --delay=3 --sleep=3 --tries=3
 
 ## Version
 * php --version
