@@ -26,6 +26,7 @@
 
 ## Install (Project)
 * sudo su
+* 
 * npm install -g gulp
 * n stable
 * sudo npm install --unsafe-perm=true
