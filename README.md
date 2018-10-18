@@ -1,4 +1,4 @@
-# ubuntu - Test to Lab
+# ubuntu
 
 ## Install (Global)
 * sudo apt-get update
