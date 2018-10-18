@@ -3,6 +3,9 @@
 ## Install (Global)
 * sudo apt-get update
 * sudo apt-get install apache2
+* sudo apt-get install cron
+* service cron start
+* service cron status
 ---
 * sudo apt-get install mysql-server
 * sudo mysql_secure_installation
