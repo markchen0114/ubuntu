@@ -26,10 +26,11 @@
 ---
 * a2enmod php7.x
 * php artisan cache:clear
+* php artisan config:clear
 
 ## Install (Project)
 * sudo su
-* 
+* php artisan passport:install
 * npm install -g gulp
 * n stable
 * sudo npm install --unsafe-perm=true
@@ -51,4 +52,4 @@
 ## Git
 * local git sync from remote
 1. git pull
-2. git reset --hard HEAD^X -> your branch is ahead of 'branchName' by X commits
+2. git reset --hard HEAD^2
