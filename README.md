@@ -38,6 +38,7 @@
 * composer install
 * npm rebuild node-sass
 * nodejs node_modules/node-sass/scripts/install.js
+* npm cache clean --force
 * sudo npm install natives
 * sudo npm install graceful-fs
 * php artisan queue:work --daemon --quiet --queue=default --delay=3 --sleep=3 --tries=3
