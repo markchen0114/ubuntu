@@ -41,6 +41,7 @@
 * npm cache clean --force
 * sudo npm install natives
 * sudo npm install graceful-fs
+* php artisan sitemap:generate
 * php artisan queue:work --daemon --quiet --queue=default --delay=3 --sleep=3 --tries=3
 ---
 * npm rebuild node-sass
