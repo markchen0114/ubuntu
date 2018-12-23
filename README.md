@@ -27,6 +27,7 @@
 * a2enmod php7.x
 * php artisan cache:clear
 * php artisan config:clear
+* php artisan view:clear
 
 ## Install (Project)
 * sudo su
