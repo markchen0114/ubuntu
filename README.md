@@ -46,6 +46,10 @@
 * php artisan queue:work --daemon --quiet --queue=default --delay=3 --sleep=3 --tries=3
 ---
 * npm rebuild node-sass
+
+* Event & Listener
+https://infylife.wordpress.com/2016/08/10/storing-logging-login-activity-in-laravel-application/
+
 ## Version
 * php --version
 * mysql --version
