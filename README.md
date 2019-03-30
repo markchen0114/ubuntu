@@ -23,6 +23,7 @@
 * sudo npm install -g n
 * sudo apt-get install gulp
 * sudo npm install npm@latest -g
+* apt-get dist-upgrade
 ---
 * a2enmod php7.x
 * php artisan cache:clear
