@@ -38,6 +38,7 @@
 * n stable
 * sudo npm install --unsafe-perm=true
 * sudo chmod 777 -R .git
+* sudo apt-get install libpng-dev
 * composer install
 * npm rebuild node-sass
 * nodejs node_modules/node-sass/scripts/install.js
