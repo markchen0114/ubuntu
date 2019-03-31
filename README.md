@@ -13,6 +13,7 @@
 * sudo apt-get install php
 * sudo apt-get install curl
 * curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+  (install composer globally)
 * sudo apt-get install git
 * sudo apt-get install npm
 * sudo apt-get install php-xml
