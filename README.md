@@ -48,6 +48,7 @@
 * php artisan sitemap:generate
 * php artisan queue:work --daemon --quiet --queue=default --delay=3 --sleep=3 --tries=3
 * sudo npm install --unsafe-perm -g node-sass
+* node node_modules/optipng-bin/lib/install.js
 
 * Event & Listener
 https://infylife.wordpress.com/2016/08/10/storing-logging-login-activity-in-laravel-application/
