@@ -67,5 +67,5 @@ https://infylife.wordpress.com/2016/08/10/storing-logging-login-activity-in-lara
 2. git reset --hard HEAD^2
 
 在原本的 1on1 用 remote add 就可以推了
-git remote add gitlab git@gitlab.com:1on1.today/1on1.git
-git push gitlab develop
+* git remote add gitlab git@gitlab.com:1on1.today/1on1.git
+* git push gitlab develop
