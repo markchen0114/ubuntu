@@ -74,3 +74,4 @@ https://infylife.wordpress.com/2016/08/10/storing-logging-login-activity-in-lara
 
 ## Other
 * pagespeed insights
+* tiny jpg
