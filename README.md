@@ -75,3 +75,5 @@ https://infylife.wordpress.com/2016/08/10/storing-logging-login-activity-in-lara
 ## Other
 * pagespeed insights
 * tiny jpg
+* Standard code style: php /usr/local/lib/php-code-quality/vendor/bin/phpcbf --standard=ruletest.xml .
+
