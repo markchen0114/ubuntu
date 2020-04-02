@@ -50,6 +50,7 @@
 * sudo npm install --unsafe-perm -g node-sass
 * node node_modules/optipng-bin/lib/install.js
 * npm upgrade lodash (fix lodash security issue)
+* cross-env sass-load lib-dev 這幾個套件，在 apt 及 npm 要先裝好, 沒裝好直接 npm install 後面都會裝不起來
 
 * Event & Listener
 https://infylife.wordpress.com/2016/08/10/storing-logging-login-activity-in-laravel-application/
