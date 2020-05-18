@@ -55,6 +55,24 @@
 * Event & Listener
 https://infylife.wordpress.com/2016/08/10/storing-logging-login-activity-in-laravel-application/
 
+* apache2
+/etc/apache2/site-available/laravel.conf
+```
+<VirtualHost *:80>
+    ServerName dev1on1.ltd
+    
+    ServerAdmin webmaster@localhost
+    DocumentRoot /var/www/html/dev1on1/public
+    
+    <Directory /var/www/html/dev1on1>
+        AllowOverride All
+    </Directory
+    
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+```
+
 ## Version
 * php --version
 * mysql --version
