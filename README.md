@@ -99,3 +99,10 @@ https://infylife.wordpress.com/2016/08/10/storing-logging-login-activity-in-lara
 https://medium.com/mr-efacani-teatime/%E5%9C%A8%E5%AF%A6%E9%9A%9B%E5%B0%88%E6%A1%88%E9%96%8B%E7%99%BC%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E6%89%80%E5%B8%B6%E4%BE%86%E7%9A%84%E6%95%88%E7%9B%8A-7e6abc23181d
 
 * sudo dpkg-reconfigure tzdata => 避免ubuntu shutdown時被MySQL卡住
+
+## Laravel
+* Create Project
+1. composer create-project laravel/laravel project--name --prefer-dist
+2. php artisan key:generate
+3. chmod 777 -R storage/
+
