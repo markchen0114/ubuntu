@@ -111,3 +111,7 @@ https://medium.com/mr-efacani-teatime/%E5%9C%A8%E5%AF%A6%E9%9A%9B%E5%B0%88%E6%A1
 1. composer require torann/geoip:1.1
 2. composer require geoip2/geoip2
 3. 需先移除web.php中的Closure => 像這樣的東西 Route::get('/test/get', function () {
+
+## Ubuntu Desktop
+* Mouse cursor move but cannot click: killall -3 gnome-shell
+* 
